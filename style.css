@@ -165,4 +165,5 @@ body {
 .text {
   font-size: 2em;
   color: rgb(171, 2, 250);
+  z-index: 99;
 }
