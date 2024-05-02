@@ -161,6 +161,8 @@ body {
   gap: 6em;
   margin-left: 3em;
   margin-bottom: 6em;
+  z-index: 99;
+  margin-bottom: 5em;
 }
 
 .text {
